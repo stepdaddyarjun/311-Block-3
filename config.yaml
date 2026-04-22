@@ -1,0 +1,10 @@
+data:
+  raw_data_path: data/raw/data.csv
+  processed_data_path: data/processed/processed.csv
+
+model:
+  model_path: models/model.pkl
+
+training:
+  test_size: 0.2
+  random_state: 42
